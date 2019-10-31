@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://ftp.bmp.ovh/imgs/2019/10/78a6fe7a2eb46fc1.png" alt="KoBVud.png" border="0" />
+ <img src="https://github.com/utopfish/vue-pedigreeTree/tree/master/src/assets/logo_透明图层.png" alt="KoBVud.png" border="0" />
 </p>
 
 <p align="center">
