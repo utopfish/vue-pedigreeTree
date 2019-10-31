@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="320" src="https://s2.ax1x.com/2019/10/31/KoBVud.png">
+ <img src="https://s2.ax1x.com/2019/10/31/KoBVud.png" alt="KoBVud.png" border="0" />
 </p>
 
 <p align="center">
